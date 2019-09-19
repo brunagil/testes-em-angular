@@ -10,7 +10,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:ci": "jest -ci --runInBand",
-    "test:coverage": "jest --coverage",
+    "test:coverage": "jest --coverage"
   },
   "private": true,
   "dependencies": {
